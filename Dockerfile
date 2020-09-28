@@ -1,6 +1,6 @@
 FROM alpine
 
-LABEL maintainer="Naveen S R <srnaveen2k@yahoo.com>"
+LABEL maintainer="zNaveen S R <srnaveen2k@yahoo.com>"
 
 ENV DISPLAY :52
 ENV RESOLUTION 1680x900x24 
